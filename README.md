@@ -1,15 +1,15 @@
-# Donezo - Collaborative Task Management Application
+# TaskMaster Pro or Donezo - Collaborative Task Management Application
 
 A professional, full-stack todo task management web application built for the hackathon challenge. Features real-time collaboration, Google OAuth authentication, and a modern, responsive UI.
 
-## 🚀 Live Demo
+## Architecture diagram
+![Architecture Diagram](https://github.com/user-attachments/assets/a38bba1f-86f4-46ee-b243-75ecc582024d)
 
-**Frontend:** [Live App URL - To be deployed]
-**Backend API:** [API URL - To be deployed]
+
+## 🚀 Live Demo - https://aura-task-canvas-bloom.lovable.app/
 
 ## 📹 Demo Video
-
-[Loom Video Link - To be added] - Complete walkthrough and explanation of the application
+https://drive.google.com/file/d/1w4wc17yHdAfVcgX4ZiYbTm9rrFjXRdiW/view?usp=sharing
 
 ## 🎯 Features
 
@@ -250,10 +250,6 @@ npm run db:studio    # Open database studio
 3. Make your changes
 4. Add tests for new features
 5. Submit a pull request
-
-## 📄 License
-
-MIT License - feel free to use this project for learning and development.
 
 ---
 
